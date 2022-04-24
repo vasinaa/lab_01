@@ -2616,11 +2616,10 @@ boost_out/include/boost/log/sinks/syslog_backend.hpp
 </details>
 
 
-```
+
 8. _Скомпилирутйе boost. Можно воспользоваться инструкцией или ссылкой._
 ```bash
 $ ./bootstrap.sh
-$ ./b2
 ```
 <details>
 
