@@ -2612,11 +2612,11 @@ boost_out/include/boost/asio/completion_condition.hpp
 boost_out/include/boost/asio/basic_io_object.hpp
 boost_out/include/boost/log/sinks/syslog_backend.hpp
 .bash_history
-```
+
 </details>
 
 
-#
+```
 8. _Скомпилирутйе boost. Можно воспользоваться инструкцией или ссылкой._
 ```bash
 $ ./bootstrap.sh
