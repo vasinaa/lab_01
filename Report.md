@@ -2617,7 +2617,7 @@ boost_out/include/boost/log/sinks/syslog_backend.hpp
 
 
 
-8. _Скомпилирутйе boost. Можно воспользоваться инструкцией или ссылкой._
+8. _Скомпилируйте boost. Можно воспользоваться инструкцией или ссылкой._
 ```bash
 $ ./bootstrap.sh
 ```
