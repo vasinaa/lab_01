@@ -4699,7 +4699,7 @@ $ ./bootstrap.sh
 $ ./b2
 ```
 <details>
-```
+
 <summary>Вывод</summary>
 Bootstrapping is done. To build, run:
 
@@ -4896,9 +4896,10 @@ Component configuration:
 ...patience...
 ...found 16821 targets...
 ...updating 553 targets...
-```
+
 </details>
 
+#
 
 9. _Перенесите все скомпилированные на предыдущем шаге статические библиотеки в директорию ~/boost-libs._
 ```bash
